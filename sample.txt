@@ -1,1 +1,2 @@
 This is a sample file
+We are adding this line on GitBash
